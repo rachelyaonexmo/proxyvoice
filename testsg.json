@@ -1,0 +1,17 @@
+[
+          {
+            "action": "talk",
+            "text": "We are connecting your call, please hold for a while",
+            "voiceName": "Amy"
+          },
+          {
+          "action": "connect",
+          "eventUrl": ["http://mydemosite.ngrok.io/event"],
+          "endpoint": [
+                         {
+                            "type": "phone",
+                            "number": "6582838586"
+                          }
+                       ]
+             }
+ ]
