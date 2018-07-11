@@ -1,18 +1,36 @@
 [
-         {
-           “action”: “talk”,
-           “text”: “Hello, Good Day to you. Pls wait.“,
-           “voiceName”: “Amy”
-         },
-         {
-         “action”: “connect”,
-         “eventUrl”: [“http://mydemosite.ngrok.io/event“],
-         “from”: “622129966951",
-         “endpoint”: [
-                        {
-                           “type”: “phone”,
-                           “number”: “6281212961282”
-                         }
-                      ]
-            }
-]
+
+          {
+
+            "action": "talk",
+
+            "text": "Hello, Good Day to you. Pls wait.",
+
+            "voiceName": "Amy"
+
+          },
+
+          {
+
+          "action": "connect",
+
+          "eventUrl": ["http://mydemosite.ngrok.io/event"],
+
+          "from": "622129966951",
+
+          "endpoint": [
+
+                         {
+
+                            "type": "phone",
+
+                            "number": "6281212961282"
+
+                          }
+
+                       ]
+
+             }
+
+ ]
+
