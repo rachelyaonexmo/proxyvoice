@@ -1,0 +1,17 @@
+[
+    {
+        "action": "talk",
+        "text": "Please wait while we connect you."
+    },
+    {
+        "action": "connect",
+        "timeout": 20,
+        "from": "622129966975",
+        "endpoint": [
+            {
+                "type": "phone",
+                "number": "6281213109494"
+            }
+        ]
+    }
+]
