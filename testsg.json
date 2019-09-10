@@ -13,7 +13,7 @@
           {
 
           "action": "connect",
-          "timeout:10,
+          
           "eventUrl": ["http://mydemosite.ngrok.io/event"],
 
           "from": "622129966975",
