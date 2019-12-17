@@ -4,7 +4,7 @@
 
             "action": "talk",
 
-            "text": "<speak><break time='1s' />Good afternoon, how do you do? Welcome to Nexmo API Call. Pls hold while we connect your call.</speak>",
+            "text": "<speak><break time='1s' />Good evening, how do you do? Welcome to Nexmo API Call. Pls hold while we connect your call.</speak>",
 
             "voiceName": "Amy"
 
