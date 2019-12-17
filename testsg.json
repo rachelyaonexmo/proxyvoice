@@ -12,9 +12,7 @@
 
           {
 
-          "action": "connect",
-          
-          "eventUrl": ["http://mydemosite.ngrok.io/event"],
+          "action": "connect"
 
           "from": "622129966975",
 
